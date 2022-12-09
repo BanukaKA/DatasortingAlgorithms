@@ -1,5 +1,5 @@
 # DatasortingAlgorithms
-Included some famous data sorting algorithms python written by me for practice by my own
+Sorting Practice with python
 
 Currently Included : Bubble Sort and Insertion sort
 
